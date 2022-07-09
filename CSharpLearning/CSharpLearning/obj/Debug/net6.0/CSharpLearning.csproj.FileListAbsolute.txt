@@ -1,0 +1,15 @@
+D:\Learning C#\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.exe
+D:\Learning C#\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.deps.json
+D:\Learning C#\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.runtimeconfig.json
+D:\Learning C#\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.dll
+D:\Learning C#\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.pdb
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.csproj.AssemblyReference.cache
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.AssemblyInfoInputs.cache
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.AssemblyInfo.cs
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.csproj.CoreCompileInputs.cache
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.dll
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\refint\CSharpLearning.dll
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.pdb
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.genruntimeconfig.cache
+D:\Learning C#\CSharpLearning\CSharpLearning\obj\Debug\net6.0\ref\CSharpLearning.dll
