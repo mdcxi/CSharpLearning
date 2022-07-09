@@ -2,8 +2,8 @@
 
 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
-Static variables, instance variables and array elements are 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲 𝐢𝐧𝐢𝐭𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞𝐢𝐫 𝐝𝐞𝐟𝐚𝐮𝐥𝐭 𝐯𝐚𝐥𝐮𝐞𝐬.
-
+- Static variables, instance variables and array elements are 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲 𝐢𝐧𝐢𝐭𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞𝐢𝐫 𝐝𝐞𝐟𝐚𝐮𝐥𝐭 𝐯𝐚𝐥𝐮𝐞𝐬.
+- Variables using 𝐯𝐚𝐫 is called 𝐈𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲 𝐓𝐲𝐩𝐞𝐝 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞. => The C# compliler will 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞 𝐢𝐭𝐬 𝐭𝐲𝐩𝐞 at compile-time 𝐛𝐚𝐬𝐞𝐝 𝐨𝐧 𝐭𝐡𝐞 𝐯𝐚𝐥𝐮𝐞 𝐚𝐬𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐢𝐭.
 
 ---oOo---
 
