@@ -4,6 +4,7 @@
 
 - Static variables, instance variables and array elements are 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲 𝐢𝐧𝐢𝐭𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞𝐢𝐫 𝐝𝐞𝐟𝐚𝐮𝐥𝐭 𝐯𝐚𝐥𝐮𝐞𝐬.
 - Variables using 𝐯𝐚𝐫 is called 𝐈𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲 𝐓𝐲𝐩𝐞𝐝 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞. => The C# compliler will 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞 𝐢𝐭𝐬 𝐭𝐲𝐩𝐞 at compile-time 𝐛𝐚𝐬𝐞𝐝 𝐨𝐧 𝐭𝐡𝐞 𝐯𝐚𝐥𝐮𝐞 𝐚𝐬𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐢𝐭.
+- The C# compliler will 𝐧𝐨𝐭 𝐜𝐡𝐞𝐜𝐤 for the type of a 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐯𝐚𝐫𝐢𝐚𝐛𝐥𝐞. The type of a dynamic variable will be 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞 𝐚𝐭 𝐭𝐡𝐞 𝐫𝐮𝐧𝐭𝐢𝐦𝐞 based on the value it holds at runtime. It can 𝐡𝐨𝐥𝐝 𝐚𝐧𝐲 𝐭𝐲𝐩𝐞 𝐨𝐟 𝐯𝐚𝐥𝐮𝐞 𝐚𝐭 𝐫𝐮𝐧𝐭𝐢𝐦𝐞, and 𝐧𝐨𝐭 𝐭𝐢𝐞𝐝 𝐮𝐩 𝐭𝐨 𝐭𝐡𝐞 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐝𝐚𝐭𝐚 𝐭𝐲𝐩𝐞. 
 
 ---oOo---
 
