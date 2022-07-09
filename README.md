@@ -1,5 +1,8 @@
 # CSharpLearning
 
+𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
+Static variables, instance variables and array elements are 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲 𝐢𝐧𝐢𝐭𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞𝐢𝐫 𝐝𝐞𝐟𝐚𝐮𝐥𝐭 𝐯𝐚𝐥𝐮𝐞𝐬.
+
 
 ---oOo---
 
