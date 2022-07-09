@@ -13,3 +13,7 @@
 𝐈𝐧𝐝𝐞𝐱𝐞𝐫 (𝐛𝐨̣̂ 𝐥𝐚̣̂𝐩 𝐜𝐡𝐢̉ 𝐦𝐮̣𝐜):
 - Một loại thuộc tính đặc biệt 𝐜𝐡𝐨 𝐩𝐡𝐞́𝐩 𝐦𝐨̣̂𝐭 𝐜𝐥𝐚𝐬𝐬 𝐡𝐨𝐚̣̆𝐜 𝐬𝐭𝐫𝐮𝐜𝐭 đ𝐮̛𝐨̛̣𝐜 𝐭𝐫𝐮𝐲 𝐜𝐚̣̂𝐩 𝐧𝐡𝐮̛ 𝐦𝐨̣̂𝐭 𝐦𝐚̉𝐧𝐠
 - Có thể được định nghĩa 𝐠𝐢𝐨̂́𝐧𝐠 𝐧𝐡𝐮̛ 𝐭𝐡𝐮𝐨̣̂𝐜 𝐭𝐢́𝐧𝐡 𝐯𝐨̛́𝐢 𝐭𝐮̛̀ 𝐤𝐡𝐨́𝐚 𝐭𝐡𝐢𝐬 𝐯𝐚̀ 𝐝𝐚̂́𝐮 𝐧𝐠𝐨𝐚̣̆𝐜 𝐯𝐮𝐨̂𝐧𝐠 [ ].
+
+---oOo---
+A keyword cannot be used as an identifier (name of the variable, class, interface, etc.). 
+However, they can be used with the prefix '@'. For example, the class is a reserved keyword, so it cannot be used as an identifier, but @class can be used.
