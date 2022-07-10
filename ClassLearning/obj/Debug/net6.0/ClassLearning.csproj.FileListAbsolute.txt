@@ -1,0 +1,15 @@
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.csproj.AssemblyReference.cache
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.AssemblyInfoInputs.cache
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.AssemblyInfo.cs
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.csproj.CoreCompileInputs.cache
+D:\Learning C#\ClassLearning\bin\Debug\net6.0\ClassLearning.exe
+D:\Learning C#\ClassLearning\bin\Debug\net6.0\ClassLearning.deps.json
+D:\Learning C#\ClassLearning\bin\Debug\net6.0\ClassLearning.runtimeconfig.json
+D:\Learning C#\ClassLearning\bin\Debug\net6.0\ClassLearning.dll
+D:\Learning C#\ClassLearning\bin\Debug\net6.0\ClassLearning.pdb
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.dll
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\refint\ClassLearning.dll
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.pdb
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ClassLearning.genruntimeconfig.cache
+D:\Learning C#\ClassLearning\obj\Debug\net6.0\ref\ClassLearning.dll
