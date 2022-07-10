@@ -1,0 +1,15 @@
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\bin\Debug\net6.0\SingletonLearning.exe
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\bin\Debug\net6.0\SingletonLearning.deps.json
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\bin\Debug\net6.0\SingletonLearning.runtimeconfig.json
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\bin\Debug\net6.0\SingletonLearning.dll
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\bin\Debug\net6.0\SingletonLearning.pdb
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.csproj.AssemblyReference.cache
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.AssemblyInfoInputs.cache
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.AssemblyInfo.cs
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.csproj.CoreCompileInputs.cache
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.dll
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\refint\SingletonLearning.dll
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.pdb
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\SingletonLearning.genruntimeconfig.cache
+D:\SmartGit\CSharpLearning\SingletonLearning\SingletonLearning\obj\Debug\net6.0\ref\SingletonLearning.dll
